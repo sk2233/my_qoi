@@ -13,6 +13,7 @@ import (
 )
 
 // https://www.bilibili.com/read/cv17617178/
+// https://qoiformat.org/
 // 暂时先只支持 RGB
 
 func main() {
